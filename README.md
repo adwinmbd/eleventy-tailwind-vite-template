@@ -34,7 +34,7 @@ npm run build
 npm run lint
 ```
 
-### To lint:
+### To style code:
 
 ```
 npm run format
