@@ -6,7 +6,7 @@ This is a template (or demo) for integrating [Vite](https://vitejs.dev) with [El
 
 ### Clone template
 
-In an empty folder run npx degit adwinmbd/eleventy-tailwind-vite-template#main
+In an empty folder run `npx degit adwinmbd/eleventy-tailwind-vite-template#main`
 
 ### Install:
 
