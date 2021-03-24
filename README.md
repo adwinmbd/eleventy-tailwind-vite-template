@@ -4,7 +4,9 @@ This is a template (or demo) for integrating [Vite](https://vitejs.dev) with [El
 
 ![screenshot](etav.png)
 
-### Clone repo in an empty directory
+### Clone template
+
+In an empty folder run npx degit adwinmbd/eleventy-tailwind-vite-template#main
 
 ### Install:
 
