@@ -47,6 +47,7 @@ npm run format
 ### References
 
 - [Tailblocks](https://tailblocks.cc)
+- [Jake Ord](https://github.com/jorddy/eleventy-vite-sass)
 - [Stephanie Eckles](https://github.com/5t3ph/smol-11ty-starter)
 - [Wicked Templates](https://blocks.wickedtemplates.com)
 - [Fotis Papadogeorgopoulous](https://github.com/fpapado/eleventy-with-vite)

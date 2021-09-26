@@ -1,6 +1,5 @@
 node_modules
-.DS_Store
+.cache
 dist
-dist-ssr
-*.local
-_site
+.env
+.DS_Store

@@ -1,6 +1,7 @@
 const cssnano = require('cssnano');
-const taildwindcssjit = require('@tailwindcss/jit');
+const tailwindcss = require('tailwindcss');
 const postcssPresetEnv = require('postcss-preset-env');
+const nanofied = process.env.NODE_ENV === 'production' ? {} : false
 
 const plugins = [
   postcssPresetEnv({
@@ -10,8 +11,9 @@ const plugins = [
       'nesting-rules': true,
     },
   }),
-  cssnano(),
-  taildwindcssjit()];
+  tailwindcss(),
+  nanofied
+];
 
 module.exports = {
   plugins
